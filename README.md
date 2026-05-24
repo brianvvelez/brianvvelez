@@ -30,23 +30,6 @@ Como Technical Lead, disfruto liderando equipos técnicos, promoviendo las mejor
 
 ---
 
-### 🚀 Proyectos Destacados
-
-<!-- AQUÍ DEBES CAMBIAR 'brayanvarelas' POR TU USUARIO DE GITHUB Y EL NOMBRE DEL REPOSITORIO -->
-
-#### [🔄 Sanimax Employee Sync](https://github.com/brianvvelez/SanimaxEmployeeSync)
-Una aplicación .NET robusta y escalable para sincronizar datos de empleados entre Workday y C-Liquida. Implementa patrones de arquitectura limpia, resiliencia de red con Polly y un sistema de detección de cambios (CDC) para optimizar el rendimiento.
-
-`C#` `.NET` `Entity Framework Core` `Polly` `HttpClientFactory`
-
-#### [📝 Sistema Integral WEB](https://github.com/brianvvelez/SanimaxSicap)
-> Integracion web
->
-> `ASP.NET` `SQL` `C#`
-
-<!-- Puedes añadir más proyectos siguiendo el mismo formato -->
-
----
 
 ### 📫 Conecta conmigo
 
