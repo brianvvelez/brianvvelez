@@ -4,7 +4,7 @@
 
 ## 💻 Technical Lead | 🧠 .NET Developer | 🗄️ SQL | ☁️ Cloud / APIs
 
-Soy un **Arquitecto de Software** especializado en el ecosistema .NET, con más de 6 años de experiencia desarrollando sistemas eficientes, integraciones vía APIs y arquitecturas limpias. Mi pasión es construir soluciones robustas y escalables que resuelvan problemas reales.
+Soy un **Arquitecto de Software** especializado en el ecosistema .NET, con más de 8 años de experiencia desarrollando sistemas eficientes, integraciones vía APIs y arquitecturas limpias. Mi pasión es construir soluciones robustas y escalables que resuelvan problemas reales.
 
 Como Technical Lead, disfruto liderando equipos técnicos, promoviendo las mejores prácticas y fomentando un entorno de desarrollo ágil y colaborativo.
 
